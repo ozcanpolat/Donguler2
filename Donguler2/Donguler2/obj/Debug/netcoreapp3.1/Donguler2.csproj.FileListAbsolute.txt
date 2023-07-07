@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\obj\Debug\netcoreapp3.1\Donguler2.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\obj\Debug\netcoreapp3.1\Donguler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\obj\Debug\netcoreapp3.1\Donguler2.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\obj\Debug\netcoreapp3.1\Donguler2.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\obj\Debug\netcoreapp3.1\Donguler2.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\bin\Debug\netcoreapp3.1\Donguler2.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\bin\Debug\netcoreapp3.1\Donguler2.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\bin\Debug\netcoreapp3.1\Donguler2.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\bin\Debug\netcoreapp3.1\Donguler2.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\bin\Debug\netcoreapp3.1\Donguler2.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\bin\Debug\netcoreapp3.1\Donguler2.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\obj\Debug\netcoreapp3.1\Donguler2.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\obj\Debug\netcoreapp3.1\Donguler2.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\Donguler2\Donguler2\obj\Debug\netcoreapp3.1\Donguler2.genruntimeconfig.cache
